@@ -1,5 +1,6 @@
-Competitive programmer then, full-stack developer @microsoft now. Working on webdev, indie games, and compilers, with ruby, typescript, and rust.
+AI Infra @[MoonshotAI](https://github.com/MoonshotAI), prev-@[microsoft](https://github.com/microsoft).
 
-[about & projects](https://namiwang.github.io/about)
+also making indie games, writing compilers, and creating stories.
 
-[posts](https://namiwang.github.io/)
+[about & projects](https://nami.land/about)
+[posts](https://nami.land/)
