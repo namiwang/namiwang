@@ -1,4 +1,4 @@
-AI Infra @[MoonshotAI](https://github.com/MoonshotAI), prev-@[microsoft](https://github.com/microsoft).
+Agent Infra @[MoonshotAI](https://github.com/MoonshotAI), prev-@[microsoft](https://github.com/microsoft).
 
 also making indie games, writing compilers, and creating stories.
 
